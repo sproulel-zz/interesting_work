@@ -25,7 +25,8 @@ Education
 :   Data Science; Galvanize
     New York
     
-    Galvanize offers a lot of unique opportunities for students. A program I worked closely with gave me the ability to         study the most recent nueral networks. They gave me insights and understanding into how these new nueral nets will be 
+    Galvanize offers a lot of unique opportunities for students. A program I worked closely with gave me the ability to       
+    study the most recent nueral networks. They gave me insights and understanding into how these new nueral nets will be 
     used in the future. I have a few of them featured. I got to work on Adversarial Networks which are on the cutting edge 
     research on nueral networks.
     Focus: Deep Learning
@@ -47,7 +48,8 @@ Self Driving RC car
 :   I wanted to be working with the newest and most cutting edge nueral networks, so I undertook this project.
 
     * It has several different kinds of projects involved, and I have gotten a lot of help from my support at Galvanize
-    * I combined both Machine and deep learning in order to get it to work, but I hope to have it fully implemented in deep learning soon.
+    * I combined both Machine and deep learning in order to get it to work, but I hope to have it fully implemented in deep 
+    * learning soon.
 
 Open Source
 :   Warehouse: It is Pypi's new warehouse for packages.
