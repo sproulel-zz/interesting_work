@@ -56,7 +56,7 @@ Open Source Projects I have worked on:
    Warehouse: It is Pypi's new warehouse for packages.
 I was working with NYC python a python group that meets to work on different python projects together. It's for sharing ideas, and we worked on this project to contribute to the Warehouse project for the migration to warehouse. 
 
-Programming Languages
+*Programming Languages:*
 
 
    **PYTHON:** 
