@@ -25,10 +25,10 @@ Education
 :   Data Science; Galvanize
     New York
     
-    Galvanize offers a lot of unique opportunities for students. A program I worked closely with gave me the ability to       
-    study the most recent nueral networks. They gave me insights and understanding into how these new nueral nets will be 
-    used in the future. I have a few of them featured. I got to work on Adversarial Networks which are on the cutting edge 
-    research on nueral networks.
+    Galvanize offers a lot of unique opportunities for students. A program I worked closely with gave me 
+    the ability to study the most recent nueral networks. They gave me insights and understanding into
+    how these new nueral nets will be used in the future. I have a few of them featured. I got to work 
+    on Adversarial Networks which are on the cutting edge of research on nueral networks.
     Focus: Deep Learning
 
 Experience
