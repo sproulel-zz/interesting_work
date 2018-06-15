@@ -51,13 +51,17 @@ Self Driving RC car
     * I combined both Machine and deep learning in order to get it to work, but I hope to have it fully implemented in deep 
     * learning soon.
 
-Open Source
+Open Source Projects I have worked on:
+
 :   Warehouse: It is Pypi's new warehouse for packages.
 I was working with NYC python a python group that meets to work on different python projects together. It's for sharing ideas, and we worked on this project to contribute to the Warehouse project for the migration to warehouse. 
 
 Programming Languages
+
+
 :   **PYTHON:** 
 I have been using python for awhile, and all my major content has been in python. I am very confident in the langauge, and it comes naturally. I have done a couple interesting projects with Nueral Networks in python. My favorite was the first reinforcement learning project I did. It was a project that involved making a cart balance a pole based on 4 different measurements. 
+
 
 :   **Bash Scripting:**
 A major part of what I like to do especially with some of the kinds of projects that I have been working on. I like to be able to automate my workflow, and since I use linux. I learned Bash Scipting. I use it a lot. I plan to attempt to get my 
