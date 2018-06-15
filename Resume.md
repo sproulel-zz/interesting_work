@@ -1,12 +1,12 @@
 
-Johnny Coder
+Lucas Sproule
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+1925 Putnam ave                        sproulelucas13@gmail.com
+Ridgewood,New York 11385               @PythonScenarist
+United States                          1(929)-409-0749
+-------------------     ---------------------------
 
 Education
 ---------
