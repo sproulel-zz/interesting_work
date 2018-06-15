@@ -16,76 +16,57 @@ sproulelucas13@gmail.com
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2014-2016
+     Milton Heshey 
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    Engineering. Certifications in Autocad inventor, AutoCAD, and NOCTI
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2017-2018
+:   Data Science; Galvanize
+    New York
+    
+    Galvanize offers a lot of unique opportunities for students. A program I worked closely with gave me the ability to         study the most recent nueral networks. They gave me insights and understanding into how these new nueral nets will be 
+    used in the future. I have a few of them featured. I got to work on Adversarial Networks which are on the cutting edge 
+    research on nueral networks.
+    Focus: Deep Learning
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+AWS Solutions Architect, Northern College
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I helped migrate Northern College's new website for e-students to AWS.
+I helped maintain the ecosystem. I helped build databases, and I helped 
+make future analytics easier.
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Self Driving RC car
+:   I wanted to be working with the newest and most cutting edge nueral networks, so I undertook this project.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * It has several different kinds of projects involved, and I have gotten a lot of help from my support at Galvanize
+    * I combined both Machine and deep learning in order to get it to work, but I hope to have it fully implemented in deep learning soon.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   Warehouse: It is Pypi's new warehouse for packages.
+I was working with NYC python a python group that meets to work on different python projects together. It's for sharing ideas, and we worked on this project to contribute to the Warehouse project for the migration to warehouse. 
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **PYTHON:** 
+I have been using python for awhile, and all my major content has been in python. I am very confident in the langauge, and it comes naturally. I have done a couple interesting projects with Nueral Networks in python. My favorite was the first reinforcement learning project I did. It was a project that involved making a cart balance a pole based on 4 different measurements. 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Bash Scripting:**
+A major part of what I like to do especially with some of the kinds of projects that I have been working on. I like to be able to automate my workflow, and since I use linux. I learned Bash Scipting. I use it a lot. I plan to attempt to get my 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   **C:**
+I am a curious person, so I like to know how things work, so I am frequently at NYC python trying to mess around with the python internals. I would not say that I am proficient in C. I wouldn't say that I could develop in C. I would say I have a working Knowledge of C. That will turn into a Knowlegde of C. 
+:   Basic knowledge of **Rust**, **C#**, **Javascript**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+[ref]: https://github.com/sproulel
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Things Recruiters Don't really care about, but sorta do...
 ----------------------------------------
 
 * Human Languages:
@@ -93,7 +74,7 @@ Extra Section, Call it Whatever You Want
      * English (native speaker)
      * ???
      * This is what a nested list looks like.
+     * Spanish (Fluent)
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Other sort of impressive-sounding thing I did
+* I was published in an article for Milton Hershey, for my internship with Penn State Hershey Medical Center. I ended up getting hired on full time.
