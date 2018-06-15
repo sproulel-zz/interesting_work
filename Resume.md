@@ -3,9 +3,12 @@ Lucas Sproule
 ============
 
 -------------------        ----------------------------
-1925 Putnam ave            sproulelucas13@gmail.com
-Ridgewood,New York 11385   @PythonScenarist
-United States              1(929)-409-0749
+1925 Putnam ave            
+Ridgewood,New York 11385   
+United States              
+@PythonScenarist
+1(929)-409-0749
+sproulelucas13@gmail.com
 -------------------        ---------------------------
 
 Education
